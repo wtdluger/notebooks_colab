@@ -1,0 +1,345 @@
+[
+    {
+        "knife": "Alox Bantam",
+        "length": 84,
+        "layers": 1,
+        "front_tool": [
+            "Main Blade",
+            "Combo Tool"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": false,
+        "scales": "Alox"
+    },
+    {
+        "knife": "Bantam",
+        "length": 84,
+        "layers": 1,
+        "front_tool": [
+            "Main Blade",
+            "Combo Tool"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Waiter",
+        "length": 84,
+        "layers": 1,
+        "front_tool": [
+            "Main Blade",
+            "Combo Tool"
+        ],
+        "back_tool": [
+            "Cork Screw"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Cadet",
+        "length": 84,
+        "layers": 2,
+        "front_tool": [
+            "Main Blade",
+            "Nail File",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": false,
+        "scales": "Alox"
+    },
+    {
+        "knife": "Recruit",
+        "length": 84,
+        "layers": 2,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Sportsman",
+        "length": 84,
+        "layers": 2,
+        "front_tool": [
+            "Main Blade",
+            "Nail File",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Cork Screw"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Spartan",
+        "length": 91,
+        "layers": 2,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Cork Screw"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Tinker",
+        "length": 91,
+        "layers": 2,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Phillips"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Compact",
+        "length": 91,
+        "layers": 2,
+        "front_tool": [
+            "Main Blade",
+            "Combo Tool",
+            "Scissors"
+        ],
+        "back_tool": [
+            "Parcel Hook",
+            "Cork Screw"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Climber",
+        "length": 91,
+        "layers": 3,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Scissors",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Parcel Hook",
+            "Cork Screw"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Super Tinker",
+        "length": 91,
+        "layers": 3,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Scissors",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Parcel Hook",
+            "Phillips"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Camper",
+        "length": 91,
+        "layers": 3,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Saw",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Cork Screw"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Hiker",
+        "length": 91,
+        "layers": 3,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Saw",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Phillips"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Deluxe Tinker",
+        "length": 91,
+        "layers": 4,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Scissors",
+            "Pliers",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Parcel Hook",
+            "Phillips"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Field Master",
+        "length": 91,
+        "layers": 4,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Scissors",
+            "Saw",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Parcel Hook",
+            "Phillips"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Huntsman",
+        "length": 91,
+        "layers": 4,
+        "front_tool": [
+            "Main Blade",
+            "Small Blade",
+            "Scissors",
+            "Saw",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            "Awl",
+            "Parcel Hook",
+            "Cork Screw"
+        ],
+        "scale_tool": true,
+        "scales": "Cellidor"
+    },
+    {
+        "knife": "Pioneer",
+        "length": 93,
+        "layers": 2,
+        "front_tool": [
+            "Main Blade",
+            "Awl",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": false,
+        "scales": "Alox"
+    },
+    {
+        "knife": "Farmer",
+        "length": 93,
+        "layers": 3,
+        "front_tool": [
+            "Main Blade",
+            "Awl",
+            "Saw",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": false,
+        "scales": "Alox"
+    },
+    {
+        "knife": "Pioneer X",
+        "length": 93,
+        "layers": 3,
+        "front_tool": [
+            "Main Blade",
+            "Awl",
+            "Scissors",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": false,
+        "scales": "Alox"
+    },
+    {
+        "knife": "Farmer X",
+        "length": 93,
+        "layers": 4,
+        "front_tool": [
+            "Main Blade",
+            "Awl",
+            "Scissors",
+            "Awl",
+            "Can Opener",
+            "Bottle Opener"
+        ],
+        "back_tool": [
+            null
+        ],
+        "scale_tool": false,
+        "scales": "Alox"
+    }
+]

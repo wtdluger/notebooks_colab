@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <!-- 84mm Knives -->
+    <knife id="Bantam">
+        <length>84</length>
+        <layers>1</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Combo Tool</front_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Waiter">
+        <length>84</length>
+        <layers>1</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Combo Tool</front_tool>
+        <back_tool>Cork Screw</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Alox Bantam">
+        <length>84</length>
+        <layers>1</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Combo Tool</front_tool>
+        <scale_tool>False</scale_tool>
+        <scales>Alox</scales>
+    </knife>
+    <knife id="Sportsman">
+        <length>84</length>
+        <layers>2</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Nail File</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Cork Screw</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Recruit">
+        <length>84</length>
+        <layers>2</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Cadet">
+        <length>84</length>
+        <layers>2</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Nail File</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <scale_tool>False</scale_tool>
+        <scales>Alox</scales>
+    </knife>
+    
+    <!-- 91mm, 2-Layer Knives -->
+    <knife id="Spartan">
+        <length>91</length>
+        <layers>2</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Cork Screw</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Tinker">
+        <length>91</length>
+        <layers>2</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Phillips</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Compact">
+        <length>91</length>
+        <layers>2</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Combo Tool</front_tool>
+        <front_tool>Scissors</front_tool>
+        <back_tool>Parcel Hook</back_tool>
+        <back_tool>Awl</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    
+    <!-- 91mm, 3-Layer Knives -->
+    <knife id="Climber">
+        <length>91</length>
+        <layers>3</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <front_tool>Scissors</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Cork Screw</back_tool>
+        <back_tool>Parcel Hook</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Camper">
+        <length>91</length>
+        <layers>3</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <front_tool>Saw</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Cork Screw</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Hiker">
+        <length>91</length>
+        <layers>3</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <front_tool>Saw</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Phillips</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Super Tinker">
+        <length>91</length>
+        <layers>3</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <front_tool>Scissors</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Phillips</back_tool>
+        <back_tool>Parcel Hook</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+
+    <!-- 91mm, 4-Layer Knives -->
+    <knife id="Huntsman">
+        <length>91</length>
+        <layers>4</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <front_tool>Scissors</front_tool>
+        <front_tool>Saw</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Cork Screw</back_tool>
+        <back_tool>Parcel Hook</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Fieldmaster">
+        <length>91</length>
+        <layers>4</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <front_tool>Scissors</front_tool>
+        <front_tool>Saw</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Phillips</back_tool>
+        <back_tool>Parcel Hook</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <knife id="Deluxe Tinker">
+        <length>91</length>
+        <layers>4</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Small Blade</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <front_tool>Scissors</front_tool>
+        <front_tool>Pliers</front_tool>
+        <back_tool>Awl</back_tool>
+        <back_tool>Phillips</back_tool>
+        <back_tool>Parcel Hook</back_tool>
+        <scale_tool>True</scale_tool>
+        <scales>Cellidor</scales>
+    </knife>
+    <!-- 93mm Knives -->
+    <knife id="Pioneer">
+        <length>93</length>
+        <layers>2</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Awl</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <scale_tool>False</scale_tool>
+        <scales>Alox</scales>
+    </knife>
+    <knife id="Farmer">
+        <length>93</length>
+        <layers>3</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Awl</front_tool>
+        <front_tool>Saw</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <scale_tool>False</scale_tool>
+        <scales>Alox</scales>
+    </knife>
+    <knife id="Pioneer X">
+        <length>93</length>
+        <layers>3</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Awl</front_tool>
+        <front_tool>Scissors</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <scale_tool>False</scale_tool>
+        <scales>Alox</scales>
+    </knife>
+    <knife id="Farmer X">
+        <length>93</length>
+        <layers>4</layers>
+        <front_tool>Main Blade</front_tool>
+        <front_tool>Awl</front_tool>
+        <front_tool>Scissors</front_tool>
+        <front_tool>Saw</front_tool>
+        <front_tool>Can Opener</front_tool>
+        <front_tool>Bottle Opener</front_tool>
+        <scale_tool>False</scale_tool>
+        <scales>Alox</scales>
+    </knife>
+</catalog>
