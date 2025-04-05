@@ -1,1 +1,1 @@
-Folder for the csv and xlsx files referenced in the Jupyter Notebooks
+Folder for the files referenced in the Jupyter Notebooks
